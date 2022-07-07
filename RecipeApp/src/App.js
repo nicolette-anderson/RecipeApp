@@ -1,6 +1,6 @@
 import styled from "styled-components/native";
 import { View, Text } from "react-native";
-import RecipeCard from "./src/components/screens/RecipeCard";
+import RecipeCard from "./components/screens/RecipeCard";
 
 export default function App() {
   return (
